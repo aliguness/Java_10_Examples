@@ -1,6 +1,6 @@
 package com.bilgeadam.lesson001;
 
-public class Questions2 {
+public class Question2 {
 	
 	public static void main(String[] args) {
 		
@@ -11,7 +11,7 @@ public class Questions2 {
 		System.out.println(isim+" "+soyIsim+" "+" - "+" "+yas);
 		String sonuc=isim+" "+soyIsim+" "+yas;
 		
-		String sonuc=isim+"\n"+soyIsim+" "+yas;
+		//String sonuc=isim+"\n"+soyIsim+" "+yas;
 	}
 
 }
